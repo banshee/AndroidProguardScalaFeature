@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.restphone.androidproguardscala.feature_0.0.8.jar" id="com.restphone.androidproguardscala.feature" version="0.0.8">
+      <category name="com.restphone.androidproguardscala.feature"/>
+   </feature>
+   <category-def name="com.restphone.androidproguardscala.feature" label="Android Proguard Scala cache system"/>
+</site>

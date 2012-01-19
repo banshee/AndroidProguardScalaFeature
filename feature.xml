@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.restphone.androidproguardscala.feature"
+      label="Android/Proguard/Scala caching build plugin"
+      version="0.0.8">
+
+   <description url="http://www.example.com/description">
+      Support for caching shrunken versions of the Scala standard library.
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Copyright 2012
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      GPL - the same license Proguard uses.
+   </license>
+
+   <requires>
+      <import plugin="org.scala-ide.sdt.core"/>
+   </requires>
+
+   <plugin
+         id="com.restphone.androidproguardscala"
+         download-size="0"
+         install-size="0"
+         version="0.0.8"/>
+
+</feature>
