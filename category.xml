@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.restphone.androidproguardscala.feature_0.0.25.qualifier.jar" id="com.restphone.androidproguardscala.feature" version="0.0.26.qualifier">
-      <category name="com.restphone.androidproguardscala.feature"/>
+   <feature url="features/com.restphone.androidproguardscala.feature_0.0.41.qualifier.jar" id="com.restphone.androidproguardscala.feature" version="0.0.41.qualifier">
+      <category name="com.restphone.androidproguardscala.category"/>
    </feature>
-   <category-def name="com.restphone.androidproguardscala.feature" label="Android Proguard Scala cache system"/>
+   <category-def name="com.restphone.androidproguardscala.category" label="Android Proguard Scala"/>
 </site>

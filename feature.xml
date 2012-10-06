@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="com.restphone.androidproguardscala.feature"
-      label="Android/Proguard/Scala caching build plugin"
-      version="0.0.26.qualifier">
+      label="Android/Proguard/Scala Feature"
+      version="0.0.41.qualifier">
 
    <description url="http://www.example.com/description">
       Support for caching shrunken versions of the Scala standard library.
