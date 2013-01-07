@@ -2,7 +2,7 @@
 <feature
       id="com.restphone.androidproguardscala.feature"
       label="Android/Proguard/Scala Feature"
-      version="0.0.41.qualifier">
+      version="0.0.42.qualifier">
 
    <description url="http://www.example.com/description">
       Support for caching shrunken versions of the Scala standard library.
@@ -16,14 +16,10 @@
       GPL - the same license Proguard uses.
    </license>
 
-   <requires>
-      <import plugin="org.scala-ide.sdt.core"/>
-   </requires>
-
    <plugin
          id="com.restphone.androidproguardscala"
          download-size="0"
          install-size="0"
-         version="0.0.0"/>
+         version="0.0.42.qualifier"/>
 
 </feature>
