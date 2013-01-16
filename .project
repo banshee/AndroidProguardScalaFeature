@@ -3,6 +3,12 @@
 	<name>AndroidProguardScalaFeature</name>
 	<comment></comment>
 	<projects>
+		<project>AndroidProguardScala</project>
+		<project>AndroidProguardScalaLib</project>
+		<project>AndroidProguardScalaUpdateSite</project>
+		<project>Jartender</project>
+		<project>JavaSignatureParser</project>
+		<project>ScalaTestUtilities</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
