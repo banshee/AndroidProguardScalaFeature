@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.restphone.androidproguardscala.feature_0.0.41.qualifier.jar" id="com.restphone.androidproguardscala.feature" version="0.0.41.qualifier">
+   <feature url="features/com.restphone.androidproguardscala.feature_0.0.43.qualifier.jar" id="com.restphone.androidproguardscala.feature" version="0.0.43.qualifier">
       <category name="com.restphone.androidproguardscala.category"/>
    </feature>
    <category-def name="com.restphone.androidproguardscala.category" label="Android Proguard Scala"/>

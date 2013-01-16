@@ -2,10 +2,10 @@
 <feature
       id="com.restphone.androidproguardscala.feature"
       label="Android/Proguard/Scala Feature"
-      version="0.0.42.qualifier">
+      version="0.0.43.qualifier">
 
-   <description url="http://www.example.com/description">
-      Support for caching shrunken versions of the Scala standard library.
+   <description url="https://github.com/banshee/AndroidProguardScala">
+      Eclipse plugin to improve the Scala development experience on Android.
    </description>
 
    <copyright url="http://www.example.com/copyright">
@@ -20,6 +20,6 @@
          id="com.restphone.androidproguardscala"
          download-size="0"
          install-size="0"
-         version="0.0.42.qualifier"/>
+         version="0.0.43.qualifier"/>
 
 </feature>
