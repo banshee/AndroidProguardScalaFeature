@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/com.restphone.androidproguardscala.feature_0.0.46-SNAPSHOT.jar" id="com.restphone.androidproguardscala.feature" version="0.0.46-SNAPSHOT">
-      <category name="com.restphone.androidproguardscala.category"/>
-   </feature>
-   <category-def name="com.restphone.androidproguardscala.category" label="Android Proguard Scala"/>
-</site>
